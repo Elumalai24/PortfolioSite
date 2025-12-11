@@ -1,3 +1,4 @@
+```json
 {
     "builds": [
         {
@@ -5,10 +6,11 @@
             "use": "@vercel/static"
         }
     ],
-    "routes": [
+    "rewrites": [
         {
-            "src": "/(.*)",
-            "dest": "/$1"
+            "source": "/(.*)",
+            "destination": "/index.html"
         }
     ]
 }
+```
