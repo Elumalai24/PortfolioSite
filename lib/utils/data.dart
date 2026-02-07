@@ -41,7 +41,7 @@ class Data {
   static const String title = "Flutter Developer";
   static const String tagline = "Building high-quality mobile applications with Flutter.";
   static const String about = 
-      "As a Flutter developer with 3.8 years of experience, I seek to leverage my technical skills and passion for creating high-quality mobile applications to contribute to a dynamic team. My objective is to deliver user-centered, scalable, and efficient solutions while adhering to best practices in Flutter and cross-platform development. I aim to continuously improve my expertise in mobile architecture, design, and performance optimization.";
+      "As a Flutter developer with 4 years of experience, I seek to leverage my technical skills and passion for creating high-quality mobile applications to contribute to a dynamic team. My objective is to deliver user-centered, scalable, and efficient solutions while adhering to best practices in Flutter and cross-platform development. I aim to continuously improve my expertise in mobile architecture, design, and performance optimization.";
   
   static const String email = "CONTACT ME"; 
 
