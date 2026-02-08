@@ -47,7 +47,7 @@ class Data {
 
   static final List<Experience> experience = [
     Experience(
-      company: "IMPACTEERS",
+      company: "GENRICHERS INNOVATIONS PRIVATE LIMITED",
       role: "Flutter Developer",
       period: "Dec 2024 - Present",
       description: "Demonstrated strong leadership in managing teams and driving project success through effective coordination and guidance. Took ownership of critical tasks, ensuring timely and high-quality delivery even under pressure. Proactively embraced advanced tools and technologies, including CI/CD pipelines and automated deployment processes for Play Store and App Store releases.",
